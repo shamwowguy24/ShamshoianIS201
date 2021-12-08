@@ -1,0 +1,62 @@
+ body{
+            background-image: url("../images/CURRY.jpeg");
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            color: white;
+            font-size: xx-large;
+            border: 2px solid black;
+            text-align: center;
+            position: absolute;
+            display: inline;
+
+        }
+
+ .tableauPlaceholder{
+    background-color: rgb(49, 49, 226);
+    padding: 20px;
+    margin: 30px;
+    
+    }
+
+.header{
+    flex-basis: 100%;
+    flex-grow: 1;
+    align-items: center;
+
+}
+
+.yee{
+    margin-right: auto !important;
+    margin-left: auto !important;
+
+}
+
+.yee2
+{
+    padding-right: 1.5rem !important;
+    padding-left: 1.5rem !important;
+}
+
+.text-uppercase{
+    text-transform: uppercase
+}
+
+.nav {
+    display: block;
+    padding: 0.5rem 1rem;
+    color: goldenrod;
+    text-decoration: none;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+  }
+
+  .link{
+      color: goldenrod;
+      text-transform: capitalize;
+  }
+
+  .footer{
+    flex-basis: 100%;
+    flex-grow: 1;
+    align-items: center;
+    font-size: small;
+
+  }

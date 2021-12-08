@@ -1,0 +1,19 @@
+body{
+    background-image: url("../images/Tatev.jpeg");
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.yeet{
+    color: black;
+    text-transform: uppercase;
+}
+
+.yeet2{
+    color:#e6a756;
+    text-transform: uppercase; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.pic{
+    border: 4px solid black;
+}
